@@ -193,7 +193,7 @@ else:
 st.header("Additional Resources")
 st.write("""
 - [GOV.UK Benefits Information](https://www.gov.uk/browse/benefits)
-- [Carers UK](https://www.carersuk.org/)
+- [Carers' Resource](https://www.carersresource.org/)
 - [Citizens Advice](https://www.citizensadvice.org.uk/)
 - [Turn2us Benefits Calculator](https://benefits-calculator.turn2us.org.uk/)
 """)
